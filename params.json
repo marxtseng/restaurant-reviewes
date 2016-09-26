@@ -1,0 +1,6 @@
+{
+  "name": "Restaurant Reviewes",
+  "tagline": "Udacity - Senior Web Developer Nanodegree",
+  "body": "# Restaurant Reviewes\r\n\r\n\r\n\r\n## Install the Polymer-CLI\r\n\r\nFirst, make sure you have the [Polymer CLI](https://www.npmjs.com/package/polymer-cli) installed. Then run `polymer serve` to serve your application locally.\r\n\r\n## Install the bower package & node package\r\n\r\n```\r\n$ npm install -g bower\r\n$ bower install\r\n$ npm install\r\n```\r\n\r\n## Viewing Your Application\r\n\r\n```\r\n$ polymer serve\r\n```\r\n\r\n## Building & Tests\r\n\r\n```\r\n$ gulp\r\n```",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
