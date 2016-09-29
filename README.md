@@ -1,6 +1,6 @@
 # Restaurant Reviewes
 
-<img src="https://github.com/marxtseng/restaurant-reviewes/blob/master/Restaurant%20Reviewes.png"/>
+![ScreenShot](https://raw.githubusercontent.com/marxtseng/restaurant-reviewes/master/Restaurant%20Reviews.png)
 
 ## Install the Polymer-CLI
 
