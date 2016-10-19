@@ -11,8 +11,6 @@ gulp.task('build', function() {
         .pipe(gulp.dest('dist'));
         
     return gulp.src('restaurant-reviewes.html')
-        .pipe(replace(/<link rel="import" href="..\/polymer\/polymer.html">/g, '<script src="../webcomponentsjs/webcomponents-lite.js"></script><link rel="import" href="../polymer/polymer.html">'))
-        .pipe(gulp.dest('dist'))
         .pipe(replace(/<link rel="import" href="../g, '<link rel="import" href="../bower_components'))
         .pipe(gulp.dest('dist'))
         .pipe(replace(/<script src="../g, '<script src="../bower_components'))
